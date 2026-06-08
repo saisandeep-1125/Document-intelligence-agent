@@ -1,0 +1,10 @@
+google-genai
+sentence-transformers
+faiss-cpu
+streamlit
+python-dotenv
+PyMuPDF
+langchain
+langchain-google-genai
+langchain-core
+numpy
